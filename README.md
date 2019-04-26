@@ -1,5 +1,4 @@
-# CRC
-# 本程序是基于Matlab的GUI的CRC编码译码和海明编码译码程序；
+# 基于Matlab的GUI的CRC编码译码和海明编码译码
 CRC.m:        
 function [Crccode,R] = CRC(Data,GX)
 % CRC编码    
